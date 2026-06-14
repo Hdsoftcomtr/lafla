@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+    function gotoRecharge()
+    {
+        alert(1);
+
+        window.webkit.messageHandlers.openRecharge.postMessage({});
+    }
+    function hiddenWebView()
+    {
+        alert(123);
+
+        window.webkit.messageHandlers.hiddenWebView.postMessage({});
+    }
+	function gotoUserInfo(user_id)
+        {
+            alert(user_id);
+
+            window.webkit.messageHandlers.openUserInfo.postMessage({"aid":user_id});
+        }
+    function jumpToTribeHomePage(tribeId)
+        {
+            window.webkit.messageHandlers.jumpToTribeHomePage.postMessage({"tribeId":"6308740fbb5681af4daaf9f6"});
+        }
+	function gotoAUserInfo()
+        {
+	    var user_id = "5e9457cecf4b1059fa0e6648";
+            gotoUserInfo(user_id);
+        }
+    function hiddenLoadingView()
+        {
+            alert(123);
+
+            window.webkit.messageHandlers.hiddenLoadingView.postMessage({});
+        }
+    function closeWebView()
+        {
+            alert(123);
+
+            window.webkit.messageHandlers.closeWebView.postMessage({});
+        }
+    function hiddenWebNav()
+        {
+
+            window.webkit.messageHandlers.hiddenWebNav.postMessage({});
+        }
+    function addLogStr()
+    {
+        var str = "这是h5日志";
+        window.webkit.messageHandlers.addLogStr.postMessage({"logStr":str});
+    }
+    function openKeyBoard()
+    {
+        window.webkit.messageHandlers.openKeyBoard.postMessage({});
+    }
+    function closeKeyBoard()
+    {
+        window.webkit.messageHandlers.closeKeyBoard.postMessage({});
+    }
+    function jumpToTribeSquare()
+    {
+        window.webkit.messageHandlers.jumpToTribeSquare.postMessage({});
+    }
+    function backWebView()
+    {
+        window.webkit.messageHandlers.backWebView.postMessage({});
+    }
+    function gotoDecorations(type)
+    {
+        window.webkit.messageHandlers.gotoDecorations.postMessage({"type":1});
+    }
+    function gotoMybag()
+    {
+        window.webkit.messageHandlers.gotoMybag.postMessage();
+    }
+        
+    </script>
+</head>
+<body>
+
+    
+
+<button onclick="gotoRecharge()">recharge</button>
+<Br/>
+<button onclick="jumpToTribeSquare()">TribeSquare</button>
+<Br/>
+<button onclick="jumpToTribeHomePage()">TribeHomePage</button>
+<Br/>
+<button onclick="gotoAUserInfo()">userInfo</button>
+<Br/>
+<button onclick="hiddenWebView()">hiddenView</button>
+<Br/>
+<button onclick="hiddenLoadingView()">hiddenLoadingView</button>
+<Br/>
+<button onclick="closeWebView()">closeWebView</button>
+<Br/>
+<button onclick="hiddenWebNav()">hiddenWebNav</button>
+<Br/>
+<button onclick="addLogStr()">addLogStr</button>
+<Br/>
+<button onclick="openKeyBoard()">openKeyBoard</button>
+<Br/>
+<button onclick="closeKeyBoard()">closeKeyBoard</button>
+<Br/>
+<button onclick="backWebView()">backWebView</button>
+<Br/>
+<button onclick="gotoDecorations()">gotoDecorations</button>
+<Br/>
+<button onclick="gotoMybag()">gotoMybag</button>
+
+</body>
+</html>

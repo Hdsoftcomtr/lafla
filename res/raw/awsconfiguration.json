@@ -1,0 +1,20 @@
+{
+  "Version": "1.0",
+  "IdentityManager": {
+    "Default": {}
+  },
+"CredentialsProvider": {
+  "CognitoIdentity": {
+    "Default": {
+      "PoolId": "eu-central-1:3f4da40a-a5a0-4a34-ad5e-41c9b3be6058",
+      "Region": "eu-central-1"
+    }
+  }
+},
+  "S3TransferUtility": {
+    "Default": {
+      "Bucket": "whistr",
+      "Region": "eu-central-1"
+    }
+  }
+}

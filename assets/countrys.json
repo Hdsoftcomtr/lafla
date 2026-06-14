@@ -1,0 +1,1906 @@
+[
+  {
+    "code" : "AD",
+    "en_name" : "Andorra",
+    "flag" : "🇦🇩",
+    "number" : "376",
+    "ar_name" : "أندورا",
+    "tr_name" : "Andora"
+  },
+  {
+    "code" : "AE",
+    "en_name" : "UAE",
+    "flag" : "🇦🇪",
+    "number" : "971",
+    "ar_name" : "الإمارات ",
+    "tr_name" : "Birleşik Arap Emirlikleri"
+  },
+  {
+    "code" : "AF",
+    "en_name" : "Afghanistan",
+    "flag" : "🇦🇫",
+    "number" : "93",
+    "ar_name" : "أفغانستان",
+    "tr_name" : "Afganistan"
+  },
+  {
+    "code" : "AG",
+    "en_name" : "Antigua & Barbuda",
+    "flag" : "🇦🇬",
+    "number" : "1",
+    "ar_name" : "أنتيغوا وبربودا",
+    "tr_name" : "Antigua ve Barbuda"
+  },
+  {
+    "code" : "AI",
+    "en_name" : "Anguilla",
+    "flag" : "🇦🇮",
+    "number" : "1",
+    "ar_name" : "أنغويلا",
+    "tr_name" : "Anguilla"
+  },
+  {
+    "code" : "AL",
+    "en_name" : "Albania",
+    "flag" : "🇦🇱",
+    "number" : "355",
+    "ar_name" : "ألبانيا",
+    "tr_name" : "Arnavutluk"
+  },
+  {
+    "code" : "AM",
+    "en_name" : "Armenia",
+    "flag" : "🇦🇲",
+    "number" : "374",
+    "ar_name" : "أرمينيا",
+    "tr_name" : "Ermenistan"
+  },
+  {
+    "code" : "AO",
+    "en_name" : "Angola",
+    "flag" : "🇦🇴",
+    "number" : "244",
+    "ar_name" : "أنغولا",
+    "tr_name" : "Angola"
+  },
+  {
+    "code" : "AR",
+    "en_name" : "Argentina",
+    "flag" : "🇦🇷",
+    "number" : "54",
+    "ar_name" : "الأرجنتين",
+    "tr_name" : "Arjantin"
+  },
+  {
+    "code" : "AS",
+    "en_name" : "American Samoa",
+    "flag" : "🇦🇸",
+    "number" : "1",
+    "ar_name" : "ساموا الأمريكية",
+    "tr_name" : "Amerikan Samoası"
+  },
+  {
+    "code" : "AT",
+    "en_name" : "Austria",
+    "flag" : "🇦🇹",
+    "number" : "43",
+    "ar_name" : "النمسا",
+    "tr_name" : "Avusturya"
+  },
+  {
+    "code" : "AU",
+    "en_name" : "Australia",
+    "flag" : "🇦🇺",
+    "number" : "61",
+    "ar_name" : "أستراليا",
+    "tr_name" : "Avustralya"
+  },
+  {
+    "code" : "AW",
+    "en_name" : "Aruba",
+    "flag" : "🇦🇼",
+    "number" : "297",
+    "ar_name" : "أروبا",
+    "tr_name" : "Aruba"
+  },
+  {
+    "code" : "AZ",
+    "en_name" : "Azerbaijan",
+    "flag" : "🇦🇿",
+    "number" : "994",
+    "ar_name" : "أذربيجان",
+    "tr_name" : "Azerbaycan"
+  },
+  {
+    "code" : "BA",
+    "en_name" : "Bosnia & Herzegovina",
+    "flag" : "🇧🇦",
+    "number" : "387",
+    "ar_name" : "البوسنة والهرسك",
+    "tr_name" : "Bosna-Hersek"
+  },
+  {
+    "code" : "BB",
+    "en_name" : "Barbados",
+    "flag" : "🇧🇧",
+    "number" : "1",
+    "ar_name" : "بربادوس",
+    "tr_name" : "Barbados"
+  },
+  {
+    "code" : "BD",
+    "en_name" : "Bangladesh",
+    "flag" : "🇧🇩",
+    "number" : "880",
+    "ar_name" : "بنغلاديش",
+    "tr_name" : "Bangladeş"
+  },
+  {
+    "code" : "BE",
+    "en_name" : "Belgium",
+    "flag" : "🇧🇪",
+    "number" : "32",
+    "ar_name" : "بلجيكا",
+    "tr_name" : "Belçika"
+  },
+  {
+    "code" : "BF",
+    "en_name" : "Burkina Faso",
+    "flag" : "🇧🇫",
+    "number" : "226",
+    "ar_name" : "بوركينا فاسو",
+    "tr_name" : "Burkina Faso"
+  },
+  {
+    "code" : "BG",
+    "en_name" : "Bulgaria",
+    "flag" : "🇧🇬",
+    "number" : "359",
+    "ar_name" : "بلغاريا",
+    "tr_name" : "Bulgaristan"
+  },
+  {
+    "code" : "BH",
+    "en_name" : "Bahrain",
+    "flag" : "🇧🇭",
+    "number" : "973",
+    "ar_name" : "البحرين",
+    "tr_name" : "Bahreyn"
+  },
+  {
+    "code" : "BI",
+    "en_name" : "Burundi",
+    "flag" : "🇧🇮",
+    "number" : "257",
+    "ar_name" : "بوروندي",
+    "tr_name" : "Burundi"
+  },
+  {
+    "code" : "BJ",
+    "en_name" : "Benin",
+    "flag" : "🇧🇯",
+    "number" : "229",
+    "ar_name" : "بنين",
+    "tr_name" : "Benin"
+  },
+  {
+    "code" : "BL",
+    "en_name" : "St. Barthélemy",
+    "flag" : "🇧🇱",
+    "number" : "590",
+    "ar_name" : "سان بارتليمي",
+    "tr_name" : "Aziz Barthelemy"
+  },
+  {
+    "code" : "BM",
+    "en_name" : "Bermuda",
+    "flag" : "🇧🇲",
+    "number" : "1",
+    "ar_name" : "برمودا",
+    "tr_name" : "Bermuda"
+  },
+  {
+    "code" : "BN",
+    "en_name" : "Brunei",
+    "flag" : "🇧🇳",
+    "number" : "673",
+    "ar_name" : "بروناي",
+    "tr_name" : "Brunei"
+  },
+  {
+    "code" : "BO",
+    "en_name" : "Bolivia",
+    "flag" : "🇧🇴",
+    "number" : "591",
+    "ar_name" : "بوليفيا",
+    "tr_name" : "Bolivya"
+  },
+  {
+    "code" : "BR",
+    "en_name" : "Brazil",
+    "flag" : "🇧🇷",
+    "number" : "55",
+    "ar_name" : "البرازيل",
+    "tr_name" : "Brezilya"
+  },
+  {
+    "code" : "BS",
+    "en_name" : "Bahamas",
+    "flag" : "🇧🇸",
+    "number" : "1",
+    "ar_name" : "البهاما",
+    "tr_name" : "Bahamalar"
+  },
+  {
+    "code" : "BT",
+    "en_name" : "Bhutan",
+    "flag" : "🇧🇹",
+    "number" : "975",
+    "ar_name" : "بوتان",
+    "tr_name" : "Butan"
+  },
+  {
+    "code" : "BW",
+    "en_name" : "Botswana",
+    "flag" : "🇧🇼",
+    "number" : "267",
+    "ar_name" : "بوتسوانا",
+    "tr_name" : "Botsvana"
+  },
+  {
+    "code" : "BY",
+    "en_name" : "Belarus",
+    "flag" : "🇧🇾",
+    "number" : "375",
+    "ar_name" : "بيلاروس",
+    "tr_name" : "Belarus"
+  },
+  {
+    "code" : "BZ",
+    "en_name" : "Belize",
+    "flag" : "🇧🇿",
+    "number" : "501",
+    "ar_name" : "بليز",
+    "tr_name" : "Belize"
+  },
+  {
+    "code" : "CA",
+    "en_name" : "Canada",
+    "flag" : "🇨🇦",
+    "number" : "1",
+    "ar_name" : "كندا",
+    "tr_name" : "Kanada"
+  },
+  {
+    "code" : "CC",
+    "en_name" : "Cocos (Keeling) Islands",
+    "flag" : "🇨🇨",
+    "number" : "61",
+    "ar_name" : "جزر كوكوس (كيلينغ)",
+    "tr_name" : "Cocos (Keyling) Adaları"
+  },
+  {
+    "code" : "CD",
+    "en_name" : "Congo - Kinshasa",
+    "flag" : "🇨🇩",
+    "number" : "243",
+    "ar_name" : "الكونغو - كينشاسا",
+    "tr_name" : "Kongo - Kinşasa"
+  },
+  {
+    "code" : "CF",
+    "en_name" : "Central African Republic",
+    "flag" : "🇨🇫",
+    "number" : "236",
+    "ar_name" : "جمهورية أفريقيا الوسطى",
+    "tr_name" : "Orta Afrika"
+  },
+  {
+    "code" : "CG",
+    "en_name" : "Congo - Brazzaville",
+    "flag" : "🇨🇬",
+    "number" : "242",
+    "ar_name" : "الكونغو - برازافيل",
+    "tr_name" : "Kongo - Brazzaville"
+  },
+  {
+    "code" : "CH",
+    "en_name" : "Switzerland",
+    "flag" : "🇨🇭",
+    "number" : "41",
+    "ar_name" : "سويسرا",
+    "tr_name" : "İsviçre"
+  },
+  {
+    "code" : "CI",
+    "en_name" : "Côte d’Ivoire",
+    "flag" : "🇨🇮",
+    "number" : "225",
+    "ar_name" : "ساحل العاج",
+    "tr_name" : "Fildişi Sahili"
+  },
+  {
+    "code" : "CK",
+    "en_name" : "Cook Islands",
+    "flag" : "🇨🇰",
+    "number" : "682",
+    "ar_name" : "جزر كوك",
+    "tr_name" : "Cook Adaları"
+  },
+  {
+    "code" : "CL",
+    "en_name" : "Chile",
+    "flag" : "🇨🇱",
+    "number" : "56",
+    "ar_name" : "تشيلي",
+    "tr_name" : "Şili"
+  },
+  {
+    "code" : "CM",
+    "en_name" : "Cameroon",
+    "flag" : "🇨🇲",
+    "number" : "237",
+    "ar_name" : "الكاميرون",
+    "tr_name" : "Kamerun"
+  },
+  {
+    "code" : "CN",
+    "en_name" : "China mainland",
+    "flag" : "🇨🇳",
+    "number" : "86",
+    "ar_name" : "الصين ",
+    "tr_name" : "Çin"
+  },
+  {
+    "code" : "CO",
+    "en_name" : "Colombia",
+    "flag" : "🇨🇴",
+    "number" : "57",
+    "ar_name" : "كولومبيا",
+    "tr_name" : "Kolombiya"
+  },
+  {
+    "code" : "CR",
+    "en_name" : "Costa Rica",
+    "flag" : "🇨🇷",
+    "number" : "506",
+    "ar_name" : "كوستاريكا",
+    "tr_name" : "Kosta Rika"
+  },
+  {
+    "code" : "CU",
+    "en_name" : "Cuba",
+    "flag" : "🇨🇺",
+    "number" : "53",
+    "ar_name" : "كوبا",
+    "tr_name" : "Küba"
+  },
+  {
+    "code" : "CV",
+    "en_name" : "Cape Verde",
+    "flag" : "🇨🇻",
+    "number" : "238",
+    "ar_name" : "الرأس الأخضر",
+    "tr_name" : "Yeşil Burun Adaları"
+  },
+  {
+    "code" : "CX",
+    "en_name" : "Christmas Island",
+    "flag" : "🇨🇽",
+    "number" : "61",
+    "ar_name" : "جزيرة كريسماس",
+    "tr_name" : "Noel Adası"
+  },
+  {
+    "code" : "CY",
+    "en_name" : "Cyprus",
+    "flag" : "🇨🇾",
+    "number" : "357",
+    "ar_name" : "قبرص",
+    "tr_name" : "Kıbrıs"
+  },
+  {
+    "code" : "CZ",
+    "en_name" : "Czechia",
+    "flag" : "🇨🇿",
+    "number" : "420",
+    "ar_name" : "التشيك",
+    "tr_name" : "Çekya"
+  },
+  {
+    "code" : "DE",
+    "en_name" : "Germany",
+    "flag" : "🇩🇪",
+    "number" : "49",
+    "ar_name" : "ألمانيا",
+    "tr_name" : "Almanya"
+  },
+  {
+    "code" : "DJ",
+    "en_name" : "Djibouti",
+    "flag" : "🇩🇯",
+    "number" : "253",
+    "ar_name" : "جيبوتي",
+    "tr_name" : "Cibuti"
+  },
+  {
+    "code" : "DK",
+    "en_name" : "Denmark",
+    "flag" : "🇩🇰",
+    "number" : "45",
+    "ar_name" : "الدانمرك",
+    "tr_name" : "Danimarka"
+  },
+  {
+    "code" : "DM",
+    "en_name" : "Dominica",
+    "flag" : "🇩🇲",
+    "number" : "1",
+    "ar_name" : "دومينيكا",
+    "tr_name" : "Dominika"
+  },
+  {
+    "code" : "DO",
+    "en_name" : "Dominican Republic",
+    "flag" : "🇩🇴",
+    "number" : "1",
+    "ar_name" : "جمهورية الدومينيكان",
+    "tr_name" : "Dominik Cumhuriyeti"
+  },
+  {
+    "code" : "DZ",
+    "en_name" : "Algeria",
+    "flag" : "🇩🇿",
+    "number" : "213",
+    "ar_name" : "الجزائر",
+    "tr_name" : "Cezayir"
+  },
+  {
+    "code" : "EC",
+    "en_name" : "Ecuador",
+    "flag" : "🇪🇨",
+    "number" : "593",
+    "ar_name" : "الإكوادور",
+    "tr_name" : "Ekvador"
+  },
+  {
+    "code" : "EE",
+    "en_name" : "Estonia",
+    "flag" : "🇪🇪",
+    "number" : "372",
+    "ar_name" : "إستونيا",
+    "tr_name" : "Estonya"
+  },
+  {
+    "code" : "EG",
+    "en_name" : "Egypt",
+    "flag" : "🇪🇬",
+    "number" : "20",
+    "ar_name" : "مصر",
+    "tr_name" : "Mısır"
+  },
+  {
+    "code" : "ER",
+    "en_name" : "Eritrea",
+    "flag" : "🇪🇷",
+    "number" : "291",
+    "ar_name" : "إريتريا",
+    "tr_name" : "Eritre"
+  },
+  {
+    "code" : "ES",
+    "en_name" : "Spain",
+    "flag" : "🇪🇸",
+    "number" : "34",
+    "ar_name" : "إسبانيا",
+    "tr_name" : "İspanya"
+  },
+  {
+    "code" : "ET",
+    "en_name" : "Ethiopia",
+    "flag" : "🇪🇹",
+    "number" : "251",
+    "ar_name" : "إثيوبيا",
+    "tr_name" : "Etiyopya"
+  },
+  {
+    "code" : "FI",
+    "en_name" : "Finland",
+    "flag" : "🇫🇮",
+    "number" : "358",
+    "ar_name" : "فنلندا",
+    "tr_name" : "Finlandiya"
+  },
+  {
+    "code" : "FJ",
+    "en_name" : "Fiji",
+    "flag" : "🇫🇯",
+    "number" : "679",
+    "ar_name" : "فيجي",
+    "tr_name" : "Fiji"
+  },
+  {
+    "code" : "FK",
+    "en_name" : "Falkland Islands",
+    "flag" : "🇫🇰",
+    "number" : "500",
+    "ar_name" : "جزر فوكلاند",
+    "tr_name" : "Falkland adaları"
+  },
+  {
+    "code" : "FM",
+    "en_name" : "Micronesia",
+    "flag" : "🇫🇲",
+    "number" : "691",
+    "ar_name" : "ميكرونيزيا",
+    "tr_name" : "Mikronezya"
+  },
+  {
+    "code" : "FO",
+    "en_name" : "Faroe Islands",
+    "flag" : "🇫🇴",
+    "number" : "298",
+    "ar_name" : "جزر فارو",
+    "tr_name" : "Faroe Adaları"
+  },
+  {
+    "code" : "FR",
+    "en_name" : "France",
+    "flag" : "🇫🇷",
+    "number" : "33",
+    "ar_name" : "فرنسا",
+    "tr_name" : "Fransa"
+  },
+  {
+    "code" : "GA",
+    "en_name" : "Gabon",
+    "flag" : "🇬🇦",
+    "number" : "241",
+    "ar_name" : "الغابون",
+    "tr_name" : "Gabon"
+  },
+  {
+    "code" : "GB",
+    "en_name" : "UK",
+    "flag" : "🇬🇧",
+    "number" : "44",
+    "ar_name" : "المملكة المتحدة",
+    "tr_name" : "Birleşik Krallık"
+  },
+  {
+    "code" : "GD",
+    "en_name" : "Grenada",
+    "flag" : "🇬🇩",
+    "number" : "1",
+    "ar_name" : "غرينادا",
+    "tr_name" : "Grenada"
+  },
+  {
+    "code" : "GE",
+    "en_name" : "Georgia",
+    "flag" : "🇬🇪",
+    "number" : "995",
+    "ar_name" : "جورجيا",
+    "tr_name" : "Gürcistan"
+  },
+  {
+    "code" : "GF",
+    "en_name" : "French Guiana",
+    "flag" : "🇬🇫",
+    "number" : "594",
+    "ar_name" : "غويانا الفرنسية",
+    "tr_name" : "Fransız Guyanası"
+  },
+  {
+    "code" : "GG",
+    "en_name" : "Guernsey",
+    "flag" : "🇬🇬",
+    "number" : "44",
+    "ar_name" : "غيرنزي",
+    "tr_name" : "Guernsey"
+  },
+  {
+    "code" : "GH",
+    "en_name" : "Ghana",
+    "flag" : "🇬🇭",
+    "number" : "233",
+    "ar_name" : "غانا",
+    "tr_name" : "Gana"
+  },
+  {
+    "code" : "GI",
+    "en_name" : "Gibraltar",
+    "flag" : "🇬🇮",
+    "number" : "350",
+    "ar_name" : "جبل طارق",
+    "tr_name" : "Cebelitarık"
+  },
+  {
+    "code" : "GL",
+    "en_name" : "Greenland",
+    "flag" : "🇬🇱",
+    "number" : "299",
+    "ar_name" : "غرينلاند",
+    "tr_name" : "Grönland"
+  },
+  {
+    "code" : "GM",
+    "en_name" : "Gambia",
+    "flag" : "🇬🇲",
+    "number" : "220",
+    "ar_name" : "غامبيا",
+    "tr_name" : "Gambiya"
+  },
+  {
+    "code" : "GN",
+    "en_name" : "Guinea",
+    "flag" : "🇬🇳",
+    "number" : "224",
+    "ar_name" : "غينيا",
+    "tr_name" : "Gine"
+  },
+  {
+    "code" : "GP",
+    "en_name" : "Guadeloupe",
+    "flag" : "🇬🇵",
+    "number" : "590",
+    "ar_name" : "غوادلوب",
+    "tr_name" : "Guadelup"
+  },
+  {
+    "code" : "GQ",
+    "en_name" : "Equatorial Guinea",
+    "flag" : "🇬🇶",
+    "number" : "240",
+    "ar_name" : "غينيا الاستوائية",
+    "tr_name" : "Ekvator Ginesi"
+  },
+  {
+    "code" : "GR",
+    "en_name" : "Greece",
+    "flag" : "🇬🇷",
+    "number" : "30",
+    "ar_name" : "اليونان",
+    "tr_name" : "Yunanistan"
+  },
+  {
+    "code" : "GS",
+    "en_name" : "So. Georgia & So. Sandwich Isl.",
+    "flag" : "🇬🇸",
+    "number" : "500",
+    "ar_name" : "جورجيا الجنوبية وجزر ساندويتش الجنوبية",
+    "tr_name" : "Güney Georgia ve Güney Sandviç Adaları"
+  },
+  {
+    "code" : "GT",
+    "en_name" : "Guatemala",
+    "flag" : "🇬🇹",
+    "number" : "502",
+    "ar_name" : "غواتيمالا",
+    "tr_name" : "Guatemala"
+  },
+  {
+    "code" : "GU",
+    "en_name" : "Guam",
+    "flag" : "🇬🇺",
+    "number" : "1",
+    "ar_name" : "غوام",
+    "tr_name" : "Guam"
+  },
+  {
+    "code" : "GW",
+    "en_name" : "Guinea-Bissau",
+    "flag" : "🇬🇼",
+    "number" : "245",
+    "ar_name" : "غينيا بيساو",
+    "tr_name" : "Gine-Bissau"
+  },
+  {
+    "code" : "GY",
+    "en_name" : "Guyana",
+    "flag" : "🇬🇾",
+    "number" : "595",
+    "ar_name" : "غيانا",
+    "tr_name" : "Guyana"
+  },
+  {
+    "code" : "HK",
+    "en_name" : "Hong Kong",
+    "flag" : "🇭🇰",
+    "number" : "852",
+    "ar_name" : "هونج كونج",
+    "tr_name" : "Hong Kong"
+  },
+  {
+    "code" : "HN",
+    "en_name" : "Honduras",
+    "flag" : "🇭🇳",
+    "number" : "504",
+    "ar_name" : "هندوراس",
+    "tr_name" : "Honduras"
+  },
+  {
+    "code" : "HR",
+    "en_name" : "Croatia",
+    "flag" : "🇭🇷",
+    "number" : "385",
+    "ar_name" : "كرواتيا",
+    "tr_name" : "Hırvatistan"
+  },
+  {
+    "code" : "HT",
+    "en_name" : "Haiti",
+    "flag" : "🇭🇹",
+    "number" : "509",
+    "ar_name" : "هايتي",
+    "tr_name" : "Haiti"
+  },
+  {
+    "code" : "HU",
+    "en_name" : "Hungary",
+    "flag" : "🇭🇺",
+    "number" : "36",
+    "ar_name" : "هنغاريا",
+    "tr_name" : "Macaristan"
+  },
+  {
+    "code" : "ID",
+    "en_name" : "Indonesia",
+    "flag" : "🇮🇩",
+    "number" : "62",
+    "ar_name" : "إندونيسيا",
+    "tr_name" : "Endonezya"
+  },
+  {
+    "code" : "IE",
+    "en_name" : "Ireland",
+    "flag" : "🇮🇪",
+    "number" : "353",
+    "ar_name" : "أيرلندا",
+    "tr_name" : "İrlanda"
+  },
+  {
+    "code" : "IL",
+    "en_name" : "Israel",
+    "flag" : "🇮🇱",
+    "number" : "972",
+    "ar_name" : "إسرائيل",
+    "tr_name" : "İsrail"
+  },
+  {
+    "code" : "IM",
+    "en_name" : "Isle of Man",
+    "flag" : "🇮🇲",
+    "number" : "44",
+    "ar_name" : "جزيرة مان",
+    "tr_name" : "Man Adası"
+  },
+  {
+    "code" : "IN",
+    "en_name" : "India",
+    "flag" : "🇮🇳",
+    "number" : "91",
+    "ar_name" : "الهند",
+    "tr_name" : "Hindistan"
+  },
+  {
+    "code" : "IO",
+    "en_name" : "British Indian Ocean Territory",
+    "flag" : "🇮🇴",
+    "number" : "246",
+    "ar_name" : "الإقليم البريطاني في المحيط الهندي",
+    "tr_name" : "Britanya Hint Okyanusu Toprakları"
+  },
+  {
+    "code" : "IQ",
+    "en_name" : "Iraq",
+    "flag" : "🇮🇶",
+    "number" : "964",
+    "ar_name" : "العراق",
+    "tr_name" : "Irak"
+  },
+  {
+    "code" : "IR",
+    "en_name" : "Iran",
+    "flag" : "🇮🇷",
+    "number" : "98",
+    "ar_name" : "إيران",
+    "tr_name" : "İran"
+  },
+  {
+    "code" : "IS",
+    "en_name" : "Iceland",
+    "flag" : "🇮🇸",
+    "number" : "354",
+    "ar_name" : "آيسلندا",
+    "tr_name" : "İzlanda"
+  },
+  {
+    "code" : "IT",
+    "en_name" : "Italy",
+    "flag" : "🇮🇹",
+    "number" : "39",
+    "ar_name" : "إيطاليا",
+    "tr_name" : "İtalya"
+  },
+  {
+    "code" : "JE",
+    "en_name" : "Jersey",
+    "flag" : "🇯🇪",
+    "number" : "44",
+    "ar_name" : "جيرسي",
+    "tr_name" : "Jersey"
+  },
+  {
+    "code" : "JM",
+    "en_name" : "Jamaica",
+    "flag" : "🇯🇲",
+    "number" : "1",
+    "ar_name" : "جامايكا",
+    "tr_name" : "Jamaika"
+  },
+  {
+    "code" : "JO",
+    "en_name" : "Jordan",
+    "flag" : "🇯🇴",
+    "number" : "962",
+    "ar_name" : "الأردن",
+    "tr_name" : "Ürdün"
+  },
+  {
+    "code" : "JP",
+    "en_name" : "Japan",
+    "flag" : "🇯🇵",
+    "number" : "81",
+    "ar_name" : "اليابان",
+    "tr_name" : "Japonya"
+  },
+  {
+    "code" : "KE",
+    "en_name" : "Kenya",
+    "flag" : "🇰🇪",
+    "number" : "254",
+    "ar_name" : "كينيا",
+    "tr_name" : "Kenya"
+  },
+  {
+    "code" : "KG",
+    "en_name" : "Kyrgyzstan",
+    "flag" : "🇰🇬",
+    "number" : "996",
+    "ar_name" : "قيرغيزستان",
+    "tr_name" : "Kırgızistan"
+  },
+  {
+    "code" : "KH",
+    "en_name" : "Cambodia",
+    "flag" : "🇰🇭",
+    "number" : "855",
+    "ar_name" : "كمبوديا",
+    "tr_name" : "Kamboçya"
+  },
+  {
+    "code" : "KI",
+    "en_name" : "Kiribati",
+    "flag" : "🇰🇮",
+    "number" : "686",
+    "ar_name" : "كيريباتي",
+    "tr_name" : "Kiribati"
+  },
+  {
+    "code" : "KM",
+    "en_name" : "Comoros",
+    "flag" : "🇰🇲",
+    "number" : "269",
+    "ar_name" : "جزر القمر",
+    "tr_name" : "Komorlar"
+  },
+  {
+    "code" : "KN",
+    "en_name" : "St. Kitts & Nevis",
+    "flag" : "🇰🇳",
+    "number" : "1",
+    "ar_name" : "سانت كيتس ونيفيس",
+    "tr_name" : "St. Kitts ve Nevis"
+  },
+  {
+    "code" : "KP",
+    "en_name" : "North Korea",
+    "flag" : "🇰🇵",
+    "number" : "850",
+    "ar_name" : "كوريا الشمالية",
+    "tr_name" : "Kuzey Kore"
+  },
+  {
+    "code" : "KR",
+    "en_name" : "South Korea",
+    "flag" : "🇰🇷",
+    "number" : "82",
+    "ar_name" : "كوريا الجنوبية",
+    "tr_name" : "Güney Kore"
+  },
+  {
+    "code" : "KW",
+    "en_name" : "Kuwait",
+    "flag" : "🇰🇼",
+    "number" : "965",
+    "ar_name" : "الكويت",
+    "tr_name" : "Kuveyt"
+  },
+  {
+    "code" : "KY",
+    "en_name" : "Cayman Islands",
+    "flag" : "🇰🇾",
+    "number" : "345",
+    "ar_name" : "جزر كايمان",
+    "tr_name" : "Cayman Adaları"
+  },
+  {
+    "code" : "KZ",
+    "en_name" : "Kazakhstan",
+    "flag" : "🇰🇿",
+    "number" : "77",
+    "ar_name" : "كازاخستان",
+    "tr_name" : "Kazakistan"
+  },
+  {
+    "code" : "LA",
+    "en_name" : "Laos",
+    "flag" : "🇱🇦",
+    "number" : "856",
+    "ar_name" : "لاوس",
+    "tr_name" : "Laos"
+  },
+  {
+    "code" : "LB",
+    "en_name" : "Lebanon",
+    "flag" : "🇱🇧",
+    "number" : "961",
+    "ar_name" : "لبنان",
+    "tr_name" : "Lübnan"
+  },
+  {
+    "code" : "LC",
+    "en_name" : "St. Lucia",
+    "flag" : "🇱🇨",
+    "number" : "1",
+    "ar_name" : "سانت لوسيا",
+    "tr_name" : "Aziz Lucia"
+  },
+  {
+    "code" : "LI",
+    "en_name" : "Liechtenstein",
+    "flag" : "🇱🇮",
+    "number" : "423",
+    "ar_name" : "ليختنشتاين",
+    "tr_name" : "Lihtenştayn"
+  },
+  {
+    "code" : "LK",
+    "en_name" : "Sri Lanka",
+    "flag" : "🇱🇰",
+    "number" : "94",
+    "ar_name" : "سريلانكا",
+    "tr_name" : "Sri Lanka"
+  },
+  {
+    "code" : "LR",
+    "en_name" : "Liberia",
+    "flag" : "🇱🇷",
+    "number" : "231",
+    "ar_name" : "ليبيريا",
+    "tr_name" : "Liberya"
+  },
+  {
+    "code" : "LS",
+    "en_name" : "Lesotho",
+    "flag" : "🇱🇸",
+    "number" : "266",
+    "ar_name" : "ليسوتو",
+    "tr_name" : "Lesoto"
+  },
+  {
+    "code" : "LT",
+    "en_name" : "Lithuania",
+    "flag" : "🇱🇹",
+    "number" : "370",
+    "ar_name" : "ليتوانيا",
+    "tr_name" : "Litvanya"
+  },
+  {
+    "code" : "LU",
+    "en_name" : "Luxembourg",
+    "flag" : "🇱🇺",
+    "number" : "352",
+    "ar_name" : "لوكسمبورغ",
+    "tr_name" : "Lüksemburg"
+  },
+  {
+    "code" : "LV",
+    "en_name" : "Latvia",
+    "flag" : "🇱🇻",
+    "number" : "371",
+    "ar_name" : "لاتفيا",
+    "tr_name" : "Letonya"
+  },
+  {
+    "code" : "LY",
+    "en_name" : "Libya",
+    "flag" : "🇱🇾",
+    "number" : "218",
+    "ar_name" : "ليبيا",
+    "tr_name" : "Libya"
+  },
+  {
+    "code" : "MA",
+    "en_name" : "Morocco",
+    "flag" : "🇲🇦",
+    "number" : "212",
+    "ar_name" : "المغرب",
+    "tr_name" : "Fas"
+  },
+  {
+    "code" : "MC",
+    "en_name" : "Monaco",
+    "flag" : "🇲🇨",
+    "number" : "377",
+    "ar_name" : "موناكو",
+    "tr_name" : "Monako"
+  },
+  {
+    "code" : "MD",
+    "en_name" : "Moldova",
+    "flag" : "🇲🇩",
+    "number" : "373",
+    "ar_name" : "مولدوفا",
+    "tr_name" : "Moldova"
+  },
+  {
+    "code" : "ME",
+    "en_name" : "Montenegro",
+    "flag" : "🇲🇪",
+    "number" : "382",
+    "ar_name" : "الجبل الأسود",
+    "tr_name" : "Karadağ"
+  },
+  {
+    "code" : "MF",
+    "en_name" : "St. Martin",
+    "flag" : "🇲🇫",
+    "number" : "590",
+    "ar_name" : "سان مارتن",
+    "tr_name" : "Aziz Martin"
+  },
+  {
+    "code" : "MG",
+    "en_name" : "Madagascar",
+    "flag" : "🇲🇬",
+    "number" : "261",
+    "ar_name" : "مدغشقر",
+    "tr_name" : "Madagaskar"
+  },
+  {
+    "code" : "MH",
+    "en_name" : "Marshall Islands",
+    "flag" : "🇲🇭",
+    "number" : "692",
+    "ar_name" : "جزر مارشال",
+    "tr_name" : "Marşal Adaları"
+  },
+  {
+    "code" : "MK",
+    "en_name" : "North Macedonia",
+    "flag" : "🇲🇰",
+    "number" : "389",
+    "ar_name" : "مقدونيا الشمالية",
+    "tr_name" : "Kuzey Makedonya"
+  },
+  {
+    "code" : "ML",
+    "en_name" : "Mali",
+    "flag" : "🇲🇱",
+    "number" : "223",
+    "ar_name" : "مالي",
+    "tr_name" : "Mali"
+  },
+  {
+    "code" : "MM",
+    "en_name" : "Myanmar (Burma)",
+    "flag" : "🇲🇲",
+    "number" : "95",
+    "ar_name" : "ميانمار (بورما)",
+    "tr_name" : "Myanmar (Burma)"
+  },
+  {
+    "code" : "MN",
+    "en_name" : "Mongolia",
+    "flag" : "🇲🇳",
+    "number" : "976",
+    "ar_name" : "منغوليا",
+    "tr_name" : "Moğolistan"
+  },
+  {
+    "code" : "MO",
+    "en_name" : "Macao",
+    "flag" : "🇲🇴",
+    "number" : "853",
+    "ar_name" : "ماكاو",
+    "tr_name" : "Makao"
+  },
+  {
+    "code" : "MP",
+    "en_name" : "Northern Mariana Islands",
+    "flag" : "🇲🇵",
+    "number" : "1",
+    "ar_name" : "جزر ماريانا الشمالية",
+    "tr_name" : "Kuzey Mariana Adaları"
+  },
+  {
+    "code" : "MQ",
+    "en_name" : "Martinique",
+    "flag" : "🇲🇶",
+    "number" : "596",
+    "ar_name" : "جزر المارتينيك",
+    "tr_name" : "Martinik"
+  },
+  {
+    "code" : "MR",
+    "en_name" : "Mauritania",
+    "flag" : "🇲🇷",
+    "number" : "222",
+    "ar_name" : "موريتانيا",
+    "tr_name" : "Moritanya"
+  },
+  {
+    "code" : "MS",
+    "en_name" : "Montserrat",
+    "flag" : "🇲🇸",
+    "number" : "1",
+    "ar_name" : "مونتسرات",
+    "tr_name" : "Montserrat"
+  },
+  {
+    "code" : "MT",
+    "en_name" : "Malta",
+    "flag" : "🇲🇹",
+    "number" : "356",
+    "ar_name" : "مالطا",
+    "tr_name" : "Malta"
+  },
+  {
+    "code" : "MU",
+    "en_name" : "Mauritius",
+    "flag" : "🇲🇺",
+    "number" : "230",
+    "ar_name" : "موريشيوس",
+    "tr_name" : "Mauritius"
+  },
+  {
+    "code" : "MV",
+    "en_name" : "Maldives",
+    "flag" : "🇲🇻",
+    "number" : "960",
+    "ar_name" : "جزر المالديف",
+    "tr_name" : "Maldivler"
+  },
+  {
+    "code" : "MW",
+    "en_name" : "Malawi",
+    "flag" : "🇲🇼",
+    "number" : "265",
+    "ar_name" : "ملاوي",
+    "tr_name" : "Malawi"
+  },
+  {
+    "code" : "MX",
+    "en_name" : "Mexico",
+    "flag" : "🇲🇽",
+    "number" : "52",
+    "ar_name" : "المكسيك",
+    "tr_name" : "Meksika"
+  },
+  {
+    "code" : "MY",
+    "en_name" : "Malaysia",
+    "flag" : "🇲🇾",
+    "number" : "60",
+    "ar_name" : "ماليزيا",
+    "tr_name" : "Malezya"
+  },
+  {
+    "code" : "MZ",
+    "en_name" : "Mozambique",
+    "flag" : "🇲🇿",
+    "number" : "258",
+    "ar_name" : "موزمبيق",
+    "tr_name" : "Mozambik"
+  },
+  {
+    "code" : "NA",
+    "en_name" : "Namibia",
+    "flag" : "🇳🇦",
+    "number" : "264",
+    "ar_name" : "ناميبيا",
+    "tr_name" : "Namibya"
+  },
+  {
+    "code" : "NC",
+    "en_name" : "New Caledonia",
+    "flag" : "🇳🇨",
+    "number" : "687",
+    "ar_name" : "كاليدونيا الجديدة",
+    "tr_name" : "Yeni Kaledonya"
+  },
+  {
+    "code" : "NE",
+    "en_name" : "Niger",
+    "flag" : "🇳🇪",
+    "number" : "227",
+    "ar_name" : "النيجر",
+    "tr_name" : "Nijer"
+  },
+  {
+    "code" : "NF",
+    "en_name" : "Norfolk Island",
+    "flag" : "🇳🇫",
+    "number" : "672",
+    "ar_name" : "جزيرة نورفولك",
+    "tr_name" : "Norfolk Adası"
+  },
+  {
+    "code" : "NG",
+    "en_name" : "Nigeria",
+    "flag" : "🇳🇬",
+    "number" : "234",
+    "ar_name" : "نيجيريا",
+    "tr_name" : "Nijerya"
+  },
+  {
+    "code" : "NI",
+    "en_name" : "Nicaragua",
+    "flag" : "🇳🇮",
+    "number" : "505",
+    "ar_name" : "نيكاراغوا",
+    "tr_name" : "Nikaragua"
+  },
+  {
+    "code" : "NL",
+    "en_name" : "Netherlands",
+    "flag" : "🇳🇱",
+    "number" : "31",
+    "ar_name" : "هولندا",
+    "tr_name" : "Hollanda"
+  },
+  {
+    "code" : "NO",
+    "en_name" : "Norway",
+    "flag" : "🇳🇴",
+    "number" : "47",
+    "ar_name" : "النرويج",
+    "tr_name" : "Norveç"
+  },
+  {
+    "code" : "NP",
+    "en_name" : "Nepal",
+    "flag" : "🇳🇵",
+    "number" : "977",
+    "ar_name" : "نيبال",
+    "tr_name" : "Nepal"
+  },
+  {
+    "code" : "NR",
+    "en_name" : "Nauru",
+    "flag" : "🇳🇷",
+    "number" : "674",
+    "ar_name" : "ناورو",
+    "tr_name" : "Nauru"
+  },
+  {
+    "code" : "NU",
+    "en_name" : "Niue",
+    "flag" : "🇳🇺",
+    "number" : "683",
+    "ar_name" : "نيوي",
+    "tr_name" : "Niue"
+  },
+  {
+    "code" : "NZ",
+    "en_name" : "New Zealand",
+    "flag" : "🇳🇿",
+    "number" : "64",
+    "ar_name" : "نيوزيلندا",
+    "tr_name" : "Yeni Zelanda"
+  },
+  {
+    "code" : "OM",
+    "en_name" : "Oman",
+    "flag" : "🇴🇲",
+    "number" : "968",
+    "ar_name" : "عُمان",
+    "tr_name" : "Umman"
+  },
+  {
+    "code" : "PA",
+    "en_name" : "Panama",
+    "flag" : "🇵🇦",
+    "number" : "507",
+    "ar_name" : "بنما",
+    "tr_name" : "Panama"
+  },
+  {
+    "code" : "PE",
+    "en_name" : "Peru",
+    "flag" : "🇵🇪",
+    "number" : "51",
+    "ar_name" : "بيرو",
+    "tr_name" : "Peru"
+  },
+  {
+    "code" : "PF",
+    "en_name" : "French Polynesia",
+    "flag" : "🇵🇫",
+    "number" : "689",
+    "ar_name" : "بولينيزيا الفرنسية",
+    "tr_name" : "Fransız Polinezyası"
+  },
+  {
+    "code" : "PG",
+    "en_name" : "Papua New Guinea",
+    "flag" : "🇵🇬",
+    "number" : "675",
+    "ar_name" : "بابوا غينيا الجديدة",
+    "tr_name" : "Papua Yeni Gine"
+  },
+  {
+    "code" : "PH",
+    "en_name" : "Philippines",
+    "flag" : "🇵🇭",
+    "number" : "63",
+    "ar_name" : "الفلبين",
+    "tr_name" : "Filipinler"
+  },
+  {
+    "code" : "PK",
+    "en_name" : "Pakistan",
+    "flag" : "🇵🇰",
+    "number" : "92",
+    "ar_name" : "باكستان",
+    "tr_name" : "Pakistan"
+  },
+  {
+    "code" : "PL",
+    "en_name" : "Poland",
+    "flag" : "🇵🇱",
+    "number" : "48",
+    "ar_name" : "بولندا",
+    "tr_name" : "Polonya"
+  },
+  {
+    "code" : "PM",
+    "en_name" : "St. Pierre & Miquelon",
+    "flag" : "🇵🇲",
+    "number" : "508",
+    "ar_name" : "سان بيير ومكويلون",
+    "tr_name" : "St. Pierre ve Miquelon"
+  },
+  {
+    "code" : "PN",
+    "en_name" : "Pitcairn Islands",
+    "flag" : "🇵🇳",
+    "number" : "872",
+    "ar_name" : "جزر بيتكيرن",
+    "tr_name" : "Pitcairn Adaları"
+  },
+  {
+    "code" : "PR",
+    "en_name" : "Puerto Rico",
+    "flag" : "🇵🇷",
+    "number" : "1",
+    "ar_name" : "بورتوريكو",
+    "tr_name" : "Porto Riko"
+  },
+  {
+    "code" : "PS",
+    "en_name" : "Palestinian Territories",
+    "flag" : "🇵🇸",
+    "number" : "970",
+    "ar_name" : "فلسطين",
+    "tr_name" : "Filistin Bölgesi"
+  },
+  {
+    "code" : "PT",
+    "en_name" : "Portugal",
+    "flag" : "🇵🇹",
+    "number" : "351",
+    "ar_name" : "البرتغال",
+    "tr_name" : "Portekiz"
+  },
+  {
+    "code" : "PW",
+    "en_name" : "Palau",
+    "flag" : "🇵🇼",
+    "number" : "680",
+    "ar_name" : "بالاو",
+    "tr_name" : "Palau"
+  },
+  {
+    "code" : "PY",
+    "en_name" : "Paraguay",
+    "flag" : "🇵🇾",
+    "number" : "595",
+    "ar_name" : "باراغواي",
+    "tr_name" : "Paraguay"
+  },
+  {
+    "code" : "QA",
+    "en_name" : "Qatar",
+    "flag" : "🇶🇦",
+    "number" : "974",
+    "ar_name" : "قطر",
+    "tr_name" : "Katar"
+  },
+  {
+    "code" : "RE",
+    "en_name" : "Réunion",
+    "flag" : "🇷🇪",
+    "number" : "262",
+    "ar_name" : "روينيون",
+    "tr_name" : "Réunion"
+  },
+  {
+    "code" : "RO",
+    "en_name" : "Romania",
+    "flag" : "🇷🇴",
+    "number" : "40",
+    "ar_name" : "رومانيا",
+    "tr_name" : "Romanya"
+  },
+  {
+    "code" : "RS",
+    "en_name" : "Serbia",
+    "flag" : "🇷🇸",
+    "number" : "381",
+    "ar_name" : "صربيا",
+    "tr_name" : "Sırbistan"
+  },
+  {
+    "code" : "RU",
+    "en_name" : "Russia",
+    "flag" : "🇷🇺",
+    "number" : "7",
+    "ar_name" : "روسيا",
+    "tr_name" : "Rusya"
+  },
+  {
+    "code" : "RW",
+    "en_name" : "Rwanda",
+    "flag" : "🇷🇼",
+    "number" : "250",
+    "ar_name" : "رواندا",
+    "tr_name" : "Ruanda"
+  },
+  {
+    "code" : "SA",
+    "en_name" : "Saudi Arabia",
+    "flag" : "🇸🇦",
+    "number" : "966",
+    "ar_name" : "السعودية",
+    "tr_name" : "Suudi Arabistan"
+  },
+  {
+    "code" : "SB",
+    "en_name" : "Solomon Islands",
+    "flag" : "🇸🇧",
+    "number" : "677",
+    "ar_name" : "جزر سليمان",
+    "tr_name" : "Solomon Adaları"
+  },
+  {
+    "code" : "SC",
+    "en_name" : "Seychelles",
+    "flag" : "🇸🇨",
+    "number" : "248",
+    "ar_name" : "سيشل",
+    "tr_name" : "Seyşeller"
+  },
+  {
+    "code" : "SD",
+    "en_name" : "Sudan",
+    "flag" : "🇸🇩",
+    "number" : "249",
+    "ar_name" : "السودان",
+    "tr_name" : "Sudan"
+  },
+  {
+    "code" : "SE",
+    "en_name" : "Sweden",
+    "flag" : "🇸🇪",
+    "number" : "46",
+    "ar_name" : "السويد",
+    "tr_name" : "İsveç"
+  },
+  {
+    "code" : "SG",
+    "en_name" : "Singapore",
+    "flag" : "🇸🇬",
+    "number" : "65",
+    "ar_name" : "سنغافورة",
+    "tr_name" : "Singapur"
+  },
+  {
+    "code" : "SH",
+    "en_name" : "St. Helena",
+    "flag" : "🇸🇭",
+    "number" : "290",
+    "ar_name" : "سانت هيلينا",
+    "tr_name" : "Aziz Helena"
+  },
+  {
+    "code" : "SI",
+    "en_name" : "Slovenia",
+    "flag" : "🇸🇮",
+    "number" : "386",
+    "ar_name" : "سلوفينيا",
+    "tr_name" : "Slovenya"
+  },
+  {
+    "code" : "SJ",
+    "en_name" : "Svalbard & Jan Mayen",
+    "flag" : "🇸🇯",
+    "number" : "47",
+    "ar_name" : "سفالبارد وجان ماين",
+    "tr_name" : "Svalbard ve Jan Mayen"
+  },
+  {
+    "code" : "SK",
+    "en_name" : "Slovakia",
+    "flag" : "🇸🇰",
+    "number" : "421",
+    "ar_name" : "سلوفاكيا",
+    "tr_name" : "Slovakya"
+  },
+  {
+    "code" : "SL",
+    "en_name" : "Sierra Leone",
+    "flag" : "🇸🇱",
+    "number" : "232",
+    "ar_name" : "سيراليون",
+    "tr_name" : "Sierra Leone"
+  },
+  {
+    "code" : "SM",
+    "en_name" : "San Marino",
+    "flag" : "🇸🇲",
+    "number" : "378",
+    "ar_name" : "سان مارينو",
+    "tr_name" : "San Marino"
+  },
+  {
+    "code" : "SN",
+    "en_name" : "Senegal",
+    "flag" : "🇸🇳",
+    "number" : "221",
+    "ar_name" : "السنغال",
+    "tr_name" : "Senegal"
+  },
+  {
+    "code" : "SO",
+    "en_name" : "Somalia",
+    "flag" : "🇸🇴",
+    "number" : "252",
+    "ar_name" : "الصومال",
+    "tr_name" : "Somali"
+  },
+  {
+    "code" : "SR",
+    "en_name" : "Suriname",
+    "flag" : "🇸🇷",
+    "number" : "597",
+    "ar_name" : "سورينام",
+    "tr_name" : "Surinam"
+  },
+  {
+    "code" : "ST",
+    "en_name" : "São Tomé & Príncipe",
+    "flag" : "🇸🇹",
+    "number" : "239",
+    "ar_name" : "ساو تومي وبرينسيبي",
+    "tr_name" : "São Tomé ve Príncipe"
+  },
+  {
+    "code" : "SV",
+    "en_name" : "El Salvador",
+    "flag" : "🇸🇻",
+    "number" : "503",
+    "ar_name" : "السلفادور",
+    "tr_name" : "El Salvador"
+  },
+  {
+    "code" : "SY",
+    "en_name" : "Syria",
+    "flag" : "🇸🇾",
+    "number" : "963",
+    "ar_name" : "سوريا",
+    "tr_name" : "Suriye"
+  },
+  {
+    "code" : "SZ",
+    "en_name" : "Eswatini",
+    "flag" : "🇸🇿",
+    "number" : "268",
+    "ar_name" : "إسواتيني",
+    "tr_name" : "Esvatini"
+  },
+  {
+    "code" : "TC",
+    "en_name" : "Turks & Caicos Islands",
+    "flag" : "🇹🇨",
+    "number" : "1",
+    "ar_name" : "جزر توركس وكايكوس",
+    "tr_name" : "Turks ve Caicos Adaları"
+  },
+  {
+    "code" : "TD",
+    "en_name" : "Chad",
+    "flag" : "🇹🇩",
+    "number" : "235",
+    "ar_name" : "تشاد",
+    "tr_name" : "Çad"
+  },
+  {
+    "code" : "TG",
+    "en_name" : "Togo",
+    "flag" : "🇹🇬",
+    "number" : "228",
+    "ar_name" : "توغو",
+    "tr_name" : "Gitmek"
+  },
+  {
+    "code" : "TH",
+    "en_name" : "Thailand",
+    "flag" : "🇹🇭",
+    "number" : "66",
+    "ar_name" : "تايلاند",
+    "tr_name" : "Tayland"
+  },
+  {
+    "code" : "TJ",
+    "en_name" : "Tajikistan",
+    "flag" : "🇹🇯",
+    "number" : "992",
+    "ar_name" : "طاجيكستان",
+    "tr_name" : "Tacikistan"
+  },
+  {
+    "code" : "TK",
+    "en_name" : "Tokelau",
+    "flag" : "🇹🇰",
+    "number" : "690",
+    "ar_name" : "توكيلو",
+    "tr_name" : "Tokelau"
+  },
+  {
+    "code" : "TL",
+    "en_name" : "Timor-Leste",
+    "flag" : "🇹🇱",
+    "number" : "670",
+    "ar_name" : "تيمور - ليشتي",
+    "tr_name" : "Doğu Timor"
+  },
+  {
+    "code" : "TM",
+    "en_name" : "Turkmenistan",
+    "flag" : "🇹🇲",
+    "number" : "993",
+    "ar_name" : "تركمانستان",
+    "tr_name" : "Türkmenistan"
+  },
+  {
+    "code" : "TN",
+    "en_name" : "Tunisia",
+    "flag" : "🇹🇳",
+    "number" : "216",
+    "ar_name" : "تونس",
+    "tr_name" : "Tunus"
+  },
+  {
+    "code" : "TO",
+    "en_name" : "Tonga",
+    "flag" : "🇹🇴",
+    "number" : "676",
+    "ar_name" : "تونغا",
+    "tr_name" : "Tonga"
+  },
+  {
+    "code" : "TR",
+    "en_name" : "Turkey",
+    "flag" : "🇹🇷",
+    "number" : "90",
+    "ar_name" : "تركيا",
+    "tr_name" : "Türkiye"
+  },
+  {
+    "code" : "TT",
+    "en_name" : "Trinidad & Tobago",
+    "flag" : "🇹🇹",
+    "number" : "1",
+    "ar_name" : "ترينيداد وتوباغو",
+    "tr_name" : "Trinidad ve Tobago"
+  },
+  {
+    "code" : "TV",
+    "en_name" : "Tuvalu",
+    "flag" : "🇹🇻",
+    "number" : "688",
+    "ar_name" : "توفالو",
+    "tr_name" : "Tuvalu"
+  },
+  {
+    "code" : "TW",
+    "en_name" : "Taiwan",
+    "flag" : "",
+    "number" : "886",
+    "ar_name" : "تايوان",
+    "tr_name" : "Tayvan"
+  },
+  {
+    "code" : "TZ",
+    "en_name" : "Tanzania",
+    "flag" : "🇹🇿",
+    "number" : "255",
+    "ar_name" : "تنزانيا",
+    "tr_name" : "Tanzanya"
+  },
+  {
+    "code" : "UA",
+    "en_name" : "Ukraine",
+    "flag" : "🇺🇦",
+    "number" : "380",
+    "ar_name" : "أوكرانيا",
+    "tr_name" : "Ukrayna"
+  },
+  {
+    "code" : "UG",
+    "en_name" : "Uganda",
+    "flag" : "🇺🇬",
+    "number" : "256",
+    "ar_name" : "أوغندا",
+    "tr_name" : "Uganda"
+  },
+  {
+    "code" : "US",
+    "en_name" : "United States",
+    "flag" : "🇺🇸",
+    "number" : "1",
+    "ar_name" : "الولايات المتحدة",
+    "tr_name" : "Amerika Birleşik Devletleri"
+  },
+  {
+    "code" : "UY",
+    "en_name" : "Uruguay",
+    "flag" : "🇺🇾",
+    "number" : "598",
+    "ar_name" : "أورغواي",
+    "tr_name" : "Uruguay"
+  },
+  {
+    "code" : "UZ",
+    "en_name" : "Uzbekistan",
+    "flag" : "🇺🇿",
+    "number" : "998",
+    "ar_name" : "أوزبكستان",
+    "tr_name" : "Özbekistan"
+  },
+  {
+    "code" : "VA",
+    "en_name" : "Vatican City",
+    "flag" : "🇻🇦",
+    "number" : "379",
+    "ar_name" : "الفاتيكان",
+    "tr_name" : "Vatikan Şehri"
+  },
+  {
+    "code" : "VC",
+    "en_name" : "St. Vincent & Grenadines",
+    "flag" : "🇻🇨",
+    "number" : "1",
+    "ar_name" : "سانت فنسنت وجزر غرينادين",
+    "tr_name" : "St. Vincent ve Grenadines"
+  },
+  {
+    "code" : "VE",
+    "en_name" : "Venezuela",
+    "flag" : "🇻🇪",
+    "number" : "58",
+    "ar_name" : "فنزويلا",
+    "tr_name" : "Venezuela"
+  },
+  {
+    "code" : "VG",
+    "en_name" : "British Virgin Islands",
+    "flag" : "🇻🇬",
+    "number" : "1",
+    "ar_name" : "جزر فيرجن البريطانية",
+    "tr_name" : "Britanya Virjin Adaları"
+  },
+  {
+    "code" : "VI",
+    "en_name" : "U.S. Virgin Islands",
+    "flag" : "🇻🇮",
+    "number" : "1",
+    "ar_name" : "جزر فيرجن التابعة للولايات المتحدة",
+    "tr_name" : "Amerika Birleşik Devletleri Virgin Adaları"
+  },
+  {
+    "code" : "VN",
+    "en_name" : "Vietnam",
+    "flag" : "🇻🇳",
+    "number" : "84",
+    "ar_name" : "فيتنام",
+    "tr_name" : "Vietnam"
+  },
+  {
+    "code" : "VU",
+    "en_name" : "Vanuatu",
+    "flag" : "🇻🇺",
+    "number" : "678",
+    "ar_name" : "فانواتو",
+    "tr_name" : "Vanuatu"
+  },
+  {
+    "code" : "WF",
+    "en_name" : "Wallis & Futuna",
+    "flag" : "🇼🇫",
+    "number" : "681",
+    "ar_name" : "جزر والس وفوتونا",
+    "tr_name" : "Wallis ve Futuna"
+  },
+  {
+    "code" : "WS",
+    "en_name" : "Samoa",
+    "flag" : "🇼🇸",
+    "number" : "685",
+    "ar_name" : "ساموا",
+    "tr_name" : "Samoa"
+  },
+  {
+    "code" : "YE",
+    "en_name" : "Yemen",
+    "flag" : "🇾🇪",
+    "number" : "967",
+    "ar_name" : "اليمن",
+    "tr_name" : "Yemen"
+  },
+  {
+    "code" : "YT",
+    "en_name" : "Mayotte",
+    "flag" : "🇾🇹",
+    "number" : "262",
+    "ar_name" : "مايوت",
+    "tr_name" : "Mayotte"
+  },
+  {
+    "code" : "ZA",
+    "en_name" : "South Africa",
+    "flag" : "🇿🇦",
+    "number" : "27",
+    "ar_name" : "جنوب أفريقيا",
+    "tr_name" : "Güney Afrika"
+  },
+  {
+    "code" : "ZM",
+    "en_name" : "Zambia",
+    "flag" : "🇿🇲",
+    "number" : "260",
+    "ar_name" : "زامبيا",
+    "tr_name" : "Zambiya"
+  },
+  {
+    "code" : "ZW",
+    "en_name" : "Zimbabwe",
+    "flag" : "🇿🇼",
+    "number" : "263",
+    "ar_name" : "زيمبابوي",
+    "tr_name" : "Zimbabve"
+  }
+]

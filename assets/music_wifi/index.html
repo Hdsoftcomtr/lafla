@@ -1,0 +1,332 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">
+		<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no"/>
+		<style>
+			*{
+				margin: 0;
+				padding: 0;
+			}
+			html{
+				font-size: 16px;
+				margin: 0 auto;
+			}
+			body{
+				max-width: 960px;
+				margin: 0 auto;
+			}
+			ul li{
+				list-style: none;
+			}
+			.clearfix:after{
+				content: '';
+				display: block;
+				height: 0;
+				clear: both;
+				visibility: hidden;
+			}
+			.page-header{
+				position: relative;
+				height: 7.5rem;
+			}
+			.icon{
+				float: left;
+				width: 6rem;
+				height: 6rem;
+				margin: 2rem 0 0 2rem;
+			}
+			.info{
+				position: relative;
+				z-index: 10;
+				float: left;
+				margin: 2.5rem 0 0 1rem;
+				color: #000;
+			}
+			.info h1{
+				font-size: 1.667rem;
+			}
+			.info p{
+				font-size: 1.333rem;
+			}
+			.bg{
+				position: absolute;
+				z-index: 1;
+				right: 1rem;
+				bottom: 1rem;
+				width: 9rem;
+				height: 8rem;
+			}
+			.tip{
+				position: absolute;
+				left: 2.333rem;
+				bottom: 0.667rem;
+				color: #FFFFFF;
+				font-size: 1.333rem;
+			}
+			.page-main{
+
+			}
+			.selected-p{
+				font-size:18px;
+				font-weight:bold;
+			}
+			.page-main p{
+				margin: 1.667rem 2rem 0;
+				color: #333333;
+				line-height: 0.5rem;
+			}
+			.page-main p:nth-child(1){
+				margin: 1.667rem 2rem 0;
+				color: #747983;
+				line-height: 1.5rem;
+				color:#40A9FF;
+				font-size:20px;
+			}
+			.page-main .nMusic{
+				color:#999;
+				font-size:18px;
+			}
+			input{
+				position: absolute;
+				right: 0;
+				top: 0;
+				opacity: 0;
+			}
+			.input{
+				position: relative;
+				width: 9rem;
+				height: 3rem;
+				text-decoration: none;
+				margin-top: 2rem;
+				border-radius: 2rem;
+				overflow: hidden;
+				color: #FFFFFF;
+				line-height: 3rem;
+				text-align: center;
+			}
+			.chose{
+				display: inline-block;
+				background-color: #000;
+				color:#fff;
+				margin-left: 2rem;
+				margin-bottom: 1rem;
+				font-weight:bold;
+				font-size:15px;
+			}
+			.upload{
+				display: inline-block;
+				background-color: #E3E5EB;
+				margin-left: 1rem;
+			}
+			.selected-file{
+				margin: 1.667rem 2rem 0;
+				height: 3rem;
+			}
+			.file-info{
+				position: relative;
+				width: calc(100% - 10rem);
+				float: left;
+			}
+			.file-name{
+				overflow: hidden;
+				text-overflow: ellipsis;
+				white-space: nowrap;
+				display: inline-block;
+				color: #232324;
+				width: calc(100% - 5rem);
+			}
+			.file-size{
+				float: right;
+				display: inline-block;
+				right: 0;
+				color: #86878A;
+			}
+			.progress-container{
+				background-color: #EEEEEE;
+				margin-top: 0.5rem;
+				height: 0.333rem;
+				border-radius: 0.167rem;
+				width: 100%;
+			}
+			.progress{
+				background-color: #23D16A;
+				height: 0.333rem;
+				border-radius: 0.167rem;
+				width: 0;
+			}
+			.progress-fail{
+				background-color: #73D13D;
+				height: 0.333rem;
+				border-radius: 0.167rem;
+			}
+			.button{
+				float: left;
+				margin-top: 1rem;
+				margin-left: 1rem;
+			}
+			.button img{
+				width: 1rem;
+				height: 1rem;
+			}
+			.reupload{
+				display: none;
+				margin-left: 5px;
+			}
+			.success{
+				display: none;
+			}
+			#file{
+				width:9rem;
+				height:3rem;
+			}
+			.text{
+				margin-left: 5px;
+				font-size: 13px;
+				float: right;
+				color: #333;
+			}
+		</style>
+		<script src="jquery-3.3.1.min.js"></script>
+	</head>
+	<body>
+		<div class="page-header clearfix">
+			<img class="icon" src="https://sources.whisper.cc/source/whisper_icon.png" alt=""/>
+			<div class="info">
+				<img src="http://ddf1uzy21cih0.cloudfront.net/source/whisper_str.png" alt="" /><br />
+				<b>Music transmitter</b>
+			</div>
+		</div>
+		<div class="page-main">
+			<p>It has been linked to your mobile phone</p>
+			<p style="font-size: 14px;line-height: 1rem;">Note: only MP3 files are supported; Do not leave the current page when operating the phone.</p>
+
+			<form action="upload.html" method="post" enctype="multipart/form-data" accept-charset="utf-8">
+				<div class="input chose"><input type="file" accept=".mp3" multiple="multiple" name="upload1" id="file">Choose</div>
+			</form>
+			<p class="selected-p">Music has been selected</p>
+			<ul id="selected"></ul>
+			<p class="nMusic">No music</p>
+		</div>
+		<script>
+			var files = '';
+			var fileArray = [];
+			$("#file").change(function(e) {
+				$("#selected").empty();
+				files = $("#file")[0].files;
+				fileArray=[];
+				for(var i = 0; i < files.length; i++){
+					var file = files[i];
+					var name = file.name;
+					var sizeK = file.size/1000000;
+					var sizeM = sizeK.toFixed(2) + 'M';
+					var html = '<li>'+
+						'<div class="selected-file clearfix">' +
+						'<div class="file-info clearfix">' +
+						'<div class="file-name">'+name+'</div>' +
+						'<div class="file-size">'+sizeM+'</div>' +
+						'<div class="progress-container">' +
+						'<div class="progress" id="progress'+i+'"></div>' +
+						'</div>' +
+						'</div>' +
+						'<div class="button">' +
+						'<img class="cancel" id="cancel'+i+'" src="imgs/cancel.png" alt=""/>' +
+						'<img class="reupload" id="reupload'+i+'" src="imgs/re-upload.png" alt=""/>' +
+						'<img class="success" id="success'+i+'" src="imgs/success.png" alt=""/>' +
+						'<span class="text" id="Transfered'+i+'" style="display:none">Transfered</span>'+		//已完成
+						'<span class="text" id="transfer'+i+'">Wait to transfer</span>'+						//等待传输
+						'<span class="text" id="Uploading'+i+'" style="display:none">Uploading…</span>'+		//正在上载
+						'</div>' +
+						'</div>' +
+						'</li>';
+					$("#selected").append(html);
+					fileArray.push(files[i]);
+				}
+				$('.nMusic').css('display','none')
+
+				//选中文件信息渲染成功后开始操作提交
+				e.preventDefault();
+				if(fileArray.length <= 0){
+					alert('Please select files！');
+				}
+				else{
+					var isEmpty = true;
+					for(var i = 0; i < fileArray.length; i++){
+						if(!!fileArray[i]){
+							isEmpty = false;
+							submitFile(fileArray[i], i);
+						}
+					}
+					if(isEmpty){
+						alert("All selected files has been upload！");
+					}
+				}
+
+				$(".cancel").click(function(e) {
+					e.preventDefault();
+					var id = $(this).attr('id');
+					var index = id.slice(6, id.length);
+					fileArray[index] = '';
+					$(this).parent().parent().remove();
+				});
+
+				$(".reupload").click(function(e) {
+				
+					e.preventDefault();
+					var id = $(this).attr('id');
+					var index = id.slice(8, id.length);
+					submitFile(fileArray[index], index);
+					$("#progress"+index).removeClass("progress-fail").addClass("progress");
+				});
+
+				$(".upload").css({'background-color': '#23D16A'});
+			});
+
+			function submitFile(file, n) {
+				var form = new FormData();
+				form.append('file', file);
+				$.ajax({
+					url: '/upload.html',
+					type: 'post',
+					data: form,
+					processData: false,
+					contentType: false,
+					xhr: function() {
+						myXhr = $.ajaxSettings.xhr();
+						if(myXhr.upload){
+							myXhr.upload.addEventListener('progress',function(e){
+								var loaded = e.loaded;
+								var total = e.total;
+								var percent = Math.floor(100*loaded/total)+"%";
+								console.log("已经上传了："+percent);
+								$("#progress"+n).css("width",percent);
+								if(percent=='100%'){
+                                  $('#Transfered'+n).css('display','block')
+                                  $('#transfer'+n).css('display','none')
+                                  $('#Uploading'+n).css('display','none')
+                                }else{
+                                  $('#Uploading'+n).css('display','block')
+                                  $('#Transfered'+n).css('display','none')
+                                  $('#transfer'+n).css('display','none')
+                                }
+								
+							}, false);
+						}
+						return myXhr;
+					},
+					success: function() {
+//						$("#selected").children()[0].remove();
+						$("#cancel"+n).hide();
+						$("#success"+n).show();
+						fileArray[n] = '';
+					},
+					error: function() {
+//						$("#cancel"+n).hide();
+						$("#reupload"+n).show();
+						$("#progress"+n).addClass("progress-fail").removeClass("progress");
+					}
+				})
+			}
+		</script>
+	</body>
+</html>
